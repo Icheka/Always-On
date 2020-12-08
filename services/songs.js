@@ -8,9 +8,9 @@ export const audioPlaylist = [
 		author: "Larry Gaga feat. Flavour",
 		source: "Flashup",
 		uri:
-			"https://flashup24.com/always-on/Tene.mp3",
+			"https://flashup24.com/always-on/music/Tene.mp3",
 		imageSource:
-			"https://www.google.com/imgres?imgurl=https%3A%2F%2Ftooxclusive.com%2Fwp-content%2Fuploads%2F2019%2F10%2FLarry-Gaaga-Tene-image.jpg&imgrefurl=https%3A%2F%2Ftooxclusive.com%2Flarry-gaaga-x-flavour-tene-new-song%2F&tbnid=n93IqpcKlAhVdM&vet=12ahUKEwi9qIH_xbftAhVLaBoKHQmmDTEQMygAegUIARCDAQ..i&docid=Ur4iuxxxaXgEDM&w=500&h=500&q=tene%20larry%20gaga&ved=2ahUKEwi9qIH_xbftAhVLaBoKHQmmDTEQMygAegUIARCDAQ",
+		"https://flashup24.com/always-on/album_art/Larry-Gaaga-Tene-image.jpg",
 	},
 	{
 		title: "Hamlet - Act I",
